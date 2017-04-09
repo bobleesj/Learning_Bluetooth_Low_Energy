@@ -2,4 +2,3 @@ language: objective-c
 osx_image: xcode8.3
 xcode_project: RunApp.xcodeproj 
 xcode_scheme: RunaApp
-xcode_sdk: iphonesimulator8.4 
